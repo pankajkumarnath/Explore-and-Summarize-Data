@@ -1,0 +1,5 @@
+Red Wine Dataset download:
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityReds.csv
+
+Correlation Heatmap:
+http://www.sthda.com/english/wiki/ggplot2-quick-correlation-matrix-heatmap-r-software-and-data-visualization
